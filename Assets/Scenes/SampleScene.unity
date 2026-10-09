@@ -1094,8 +1094,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3758c1bacaa59a748b1da74640b56ff5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TargetManager
-  target_prefab: {fileID: 0}
-  spawnArea: {fileID: 0}
+  target_prefab: {fileID: 2677819665881253443, guid: 412e11a691bffe94aabeb1cf914cbf6d, type: 3}
+  spawnArea: {fileID: 68080348}
 --- !u!4 &2101177705
 Transform:
   m_ObjectHideFlags: 0
